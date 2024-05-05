@@ -4,7 +4,7 @@ Welcome to the Book Recommendation System project! This system provides users wi
 
 ## About
 
-This project aims to simplify the process of finding the perfect book to read by offering tailored recommendations. It utilizes collaborative filtering and content-based filtering techniques to suggest books similar to those liked by the user. Additionally, it provides a list of popular books based on user ratings and reviews.
+This project aims to simplify the process of finding the perfect book to read by offering tailored recommendations. It utilizes **collaborative filtering Recommendation System** and content-based filtering techniques to suggest books similar to those liked by the user. Additionally, it provides a list of popular books based on user ratings and reviews using **Popularity Based Recommendation System**
 
 ## Features
 
@@ -37,7 +37,9 @@ This project aims to simplify the process of finding the perfect book to read by
 ```python app.py```
 
 2.Access the application in your web browser at ```http://localhost:5000```
+
 3.Navigate to the Home page to view a list of top 50 books.
+
 4.Navigate to the Recommend page to input a book title and receive recommendations based on the input.
 
 
